@@ -1,0 +1,5 @@
+function cityFacts(city) {
+	city['name'] = 'London';
+	city['country'] = 'England';
+	city['population'] = 'Loads';
+}
