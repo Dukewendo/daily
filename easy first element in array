@@ -1,0 +1,4 @@
+function getFirstValue(arr) {
+	var first = arr.shift();
+	return first;
+}
